@@ -1,1 +1,1 @@
-# Influence-based-Reinforcement-Learning-in-Intrinsically-motivated-Agents
+# Influence-based Reinforcement Learning in Intrinsically-motivated Agents
