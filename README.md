@@ -1,3 +1,4 @@
+##  This repository is not maintained at the moment.
 # Influence-based Reinforcement Learning in Intrinsically-motivated Agents
 ## Overview
 This repo provides an implementation of the algorithm in [arxiv] using Pytorch.
